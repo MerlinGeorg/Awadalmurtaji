@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+we.graphics	TRUE	/	FALSE	1999999999	CraftSessionId	ovjt1rda6vq24k243gvhrtpc8f
+.we.graphics	TRUE	/	FALSE	1999999999	__cfduid	d25739749fb651c99b63291f097123ee31590519731
+we.graphics	TRUE	/	FALSE	1999999999	SameSite	Lax
+

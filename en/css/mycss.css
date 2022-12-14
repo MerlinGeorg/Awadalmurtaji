@@ -1,0 +1,81 @@
+/*
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 0px;
+  
+}
+.row{
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.column img{
+  width:1000px;
+  height:250px;
+}
+
+ for a new row ->can use the below one also.
+
+  .row:after {
+  content: "";   
+  display: table;
+  clear: both;    
+}
+
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Open Sans",sans-serif;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button3 {
+  background-color: #FFA500; 
+  color: white; 
+  
+}
+
+.button3:hover {
+  background-color: #4682B4;
+  color: white;
+}
+
+*/
+
+
+.column img{
+  transition: 1s;   /*for rollover effect in image */
+}
+
+.column img:hover{
+  filter: grayscale(100%);  /*to change the color of image to gray*/
+  transform: scale(1.1);    /*for zooming & enlarging display of image*/
+}
+
+
+
+#divmargin{
+  margin-right: 70px;
+  margin-left: 70px;
+}
+
+
+/*for image pop up effect*/
+
+
+@media only screen and (max-width:489px){
+
+   
+.column img{
+  width:80%;   /*for rollover effect in image */
+           }
+}
+

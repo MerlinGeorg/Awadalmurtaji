@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 26 May 2020 22:01:55 at https://we.graphics/demo/avenir/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://we.graphics/demo/avenir/ -O1 "C:\wamp\www\awadalmurtaji\home\https___we.graphics_demo_avenir_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:02:12	Error: 	"OK" (404) at link https://we.graphics/demo/avenir/favicon.ico (from https://we.graphics/demo/avenir/)
+22:02:12	Error: 	"OK" (404) at link https://we.graphics/demo/avenir/images/favicon.png (from https://we.graphics/demo/avenir/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 29 links scanned, 26 files written (2145165 bytes overall) [2104881 bytes received at 123816 bytes/sec], 166712 bytes transferred using HTTP compression in 13 files, ratio 29%, 5.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
